@@ -1,0 +1,5 @@
+<VisualReCode>
+  <WcfToGrpc SourceSolution="Lab6.sln" TargetSolution="C:\Users\mike\Desktop\labs\Net-Labs\grpcPostComment.sln">
+    <Services />
+  </WcfToGrpc>
+</VisualReCode>

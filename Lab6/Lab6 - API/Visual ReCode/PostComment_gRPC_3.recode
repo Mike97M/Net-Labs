@@ -1,0 +1,7 @@
+<VisualReCode>
+  <WcfToGrpc SourceSolution="Lab6.sln" TargetSolution="C:\Users\mike\Desktop\grpc\grpcccc.sln">
+    <Services>
+      <Service ServiceContractProject="ObjectWCF/ObjectWCF.csproj" TargetProject="ObjectWCFCore" ServiceContract="ObjectWCF.InterfaceComment" GenerateClientProject="False" Implementation="ObjectWCF.PostComment" ImplementationProject="ObjectWCF/ObjectWCF.csproj" TargetClientProject="ObjectWCFCore.Client" />
+    </Services>
+  </WcfToGrpc>
+</VisualReCode>
